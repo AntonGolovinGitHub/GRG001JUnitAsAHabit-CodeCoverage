@@ -1,1 +1,1 @@
-# GRG001JUnitAsAHabit-CodeCoverage
+# GRG001JUnitAsAHabit-CodeCoverage contains code and unit tests after we raise the code coverage from about 88 to abount 97 percent as the result of the Code Coverage section of the GRG-001 JUnit as a Habit course.
